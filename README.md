@@ -1,0 +1,2 @@
+# yocto
+just pratice
